@@ -1,4 +1,7 @@
 import App from './App'
+import comJs from './utils/com.js'
+
+Vue.use(comJs);
 
 // #ifndef VUE3
 import Vue from 'vue'
