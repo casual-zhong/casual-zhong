@@ -5,7 +5,7 @@
 				<image src="../../static/images/img/four.jpg"></image>
 			</view>
 			<view class="top-bar-center">
-				<image src="../../static/images/index/火.png"></image>
+				<image src="../../static/images/index/logo.png"></image>
 			</view>
 			<view class="top-bar-right">
 				<image src="../../static/images/index/add.png"></image>

@@ -1,6 +1,8 @@
 import App from './App'
 import comJs from './utils/com.js'
+import uView from '@/uni_modules/uview-ui'
 
+Vue.use(uView)
 Vue.use(comJs);
 
 // #ifndef VUE3
