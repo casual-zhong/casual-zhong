@@ -56,7 +56,9 @@
 			submit() {
 				this.$refs.uForm.validate().then(res => {
 					uni.request({
-						url:"http://192.168.1.54:3000/test",
+						// url:"http://192.168.100.4:3000/test",
+						url:"http://192.168.100.4:3000/test1",
+						// url:"http://192.168.1.54:3000/test",
 						data:{},
 						method:"GET",
 						success:(res)=>{
